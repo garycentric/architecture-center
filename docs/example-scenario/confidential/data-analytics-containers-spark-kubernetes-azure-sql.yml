@@ -2,7 +2,7 @@
 metadata:
   title: Big data analytics on confidential computing
   titleSuffix: Azure Example Scenarios
-  description: Use confidential computing on Kubernetes to run big data analytics with Apache Spark inside confidential containers that are protected by Intel Software Guard Extensions with data from Azure Data Lake and Azure SQL Database.
+  description: Use confidential computing on Kubernetes to run big-data analytics with Apache Spark inside confidential containers that are protected by Intel Software Guard Extensions with data from Azure Data Lake and Azure SQL Database.
   author: mdrakiburrahman
   ms.author: amgowda
   ms.date: 03/16/2023
